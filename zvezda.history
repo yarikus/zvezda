@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UndoHistory>
+  <UndoTransaction tv-sec="1767386839" tv-usec="360368" name="insert file">
+    <StatefulDiffCommand obj-id="553" type-name="ARDOUR::AudioPlaylist">
+      <Changes>
+        <Regions>
+          <Add id="569"/>
+        </Regions>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="49" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="768" left-frame="0" y-origin="0">
+        <Selection/>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="768" left-frame="0" y-origin="0">
+        <Selection>
+          <StripableView id="491"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1767386842" tv-usec="760242" name="region drag">
+    <StatefulDiffCommand obj-id="569" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <length from="a3384230400@a5647564800" to="a3384230400@a0"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="49" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="768" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="569"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="768" left-frame="0" y-origin="0">
+        <Selection>
+          <Regions>
+            <Region id="569"/>
+          </Regions>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+</UndoHistory>
