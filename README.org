@@ -1,0 +1,13 @@
+#+title: Zvezda
+
+* Installation
+
+1. ~git clone https://github.com/yarikus/zvezda.git && cd ./zvezda~
+2. ~git lfs install --local~
+3. ~git lfs pull~
+4. ~ardour8 zvezda.ardour~
+
+* Dependencies
+
+- ardour8
+- git-lfs
